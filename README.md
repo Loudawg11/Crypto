@@ -1,5 +1,5 @@
 # Nadekobot
-An eassy way to deploy my NadekoBot Heroku(https://github.com/ScarletKuro/NadekoBot) edition.
+An eassy way to deploy my NadekoBot Heroku(https://github.com/Loudawg11/Ecko) edition.
 
 ### Deploy to Heroku
 
