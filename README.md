@@ -1,8 +1,8 @@
 # Nadekobot
-An eassy way to deploy my NadekoBot Heroku(https://github.com/Loudawg11/Ecko) edition.
+An eassy way to deploy my NadekoBot Heroku(https://github.com/Loudawg11/Crypto) edition.
 
 ### Deploy to Heroku
 
 You can deploy in a simple way to Heroku using the button below.
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new-app?template=https://github.com/Loudawg11/Ecko)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new-app?template=https://github.com/Loudawg11/Crypto)
