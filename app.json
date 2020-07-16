@@ -1,6 +1,6 @@
 {
-  "name": "Ecko",
-  "description": "Lost Community's custom Nadeko bot.",
+  "name": "Crypto",
+  "description": "Halo's Den custom nadeko bot.",
   "keywords": [
     "Heroku",
     "NadekoBot",
@@ -10,7 +10,7 @@
     "Kuro"
   ],
   "website": "https://nadekobot.me/",
-  "repository": "https://github.com/Loudawg11/Ecko",
+  "repository": "https://github.com/Loudawg11/Crypto",
   "logo": "https://i.imgur.com/GbBl552.png",
   
   "addons": [
